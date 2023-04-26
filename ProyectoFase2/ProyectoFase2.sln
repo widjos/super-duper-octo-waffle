@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33423.256
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "ProyectoFase2", "ProyectoFase2.dwproj", "{CAB64460-A39B-489F-8078-1AEC7631CAB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAB64460-A39B-489F-8078-1AEC7631CAB9}.Development|Default.ActiveCfg = Development
+		{CAB64460-A39B-489F-8078-1AEC7631CAB9}.Development|Default.Build.0 = Development
+		{CAB64460-A39B-489F-8078-1AEC7631CAB9}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC26A7E0-7EFB-48ED-B0A1-C2377F08F491}
+	EndGlobalSection
+EndGlobal
