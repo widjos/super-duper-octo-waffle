@@ -17,16 +17,6 @@
         </ProjectItem>
       </Dependencies>
     </ProjectItem>
-    <ProjectItem>
-      <Name>VistaVenta.cube</Name>
-      <FullPath>VistaVenta.cube</FullPath>
-      <Dependencies>
-        <ProjectItem>
-          <Name>VistaVenta.partitions</Name>
-          <FullPath>VistaVenta.partitions</FullPath>
-        </ProjectItem>
-      </Dependencies>
-    </ProjectItem>
   </Cubes>
   <Dimensions>
     <ProjectItem>
@@ -46,24 +36,8 @@
       <FullPath>FECHA_DIM_COMPRA.dim</FullPath>
     </ProjectItem>
     <ProjectItem>
-      <Name>CLIENTE_DIM_VENTA.dim</Name>
-      <FullPath>CLIENTE_DIM_VENTA.dim</FullPath>
-    </ProjectItem>
-    <ProjectItem>
-      <Name>PRODUCTO_DIM_VENTA.dim</Name>
-      <FullPath>PRODUCTO_DIM_VENTA.dim</FullPath>
-    </ProjectItem>
-    <ProjectItem>
-      <Name>VENDEDOR_DIM_VENTA.dim</Name>
-      <FullPath>VENDEDOR_DIM_VENTA.dim</FullPath>
-    </ProjectItem>
-    <ProjectItem>
-      <Name>SUCURSAL_DIM_VENTA.dim</Name>
-      <FullPath>SUCURSAL_DIM_VENTA.dim</FullPath>
-    </ProjectItem>
-    <ProjectItem>
-      <Name>FECHA_DIM_VENTA.dim</Name>
-      <FullPath>FECHA_DIM_VENTA.dim</FullPath>
+      <Name>DIMDATE.dim</Name>
+      <FullPath>DIMDATE.dim</FullPath>
     </ProjectItem>
   </Dimensions>
   <DataSources>
@@ -76,10 +50,6 @@
     <ProjectItem>
       <Name>VistaCompra.dsv</Name>
       <FullPath>VistaCompra.dsv</FullPath>
-    </ProjectItem>
-    <ProjectItem>
-      <Name>VistaVenta.dsv</Name>
-      <FullPath>VistaVenta.dsv</FullPath>
     </ProjectItem>
   </DataSourceViews>
   <Configurations>
